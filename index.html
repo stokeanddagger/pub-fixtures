@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Upcoming Live Football (Sky + TNT)</title>
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 24px; }
+    h1 { margin: 0 0 8px; }
+    .meta { color: #555; margin-bottom: 18px; }
+    .day { margin: 18px 0 10px; font-weight: 700; }
+    .match { padding: 10px 0; border-bottom: 1px solid #eee; }
+    .time { font-weight: 700; width: 70px; display: inline-block; }
+    .teams { font-weight: 600; }
+    .comp { color: #555; margin-left: 6px; }
+    .channels { color: #333; margin-top: 4px; }
+    .error { color: #b00020; }
+  </style>
+</head>
+<body>
+  <h1>Upcoming Live Football</h1>
+  <div class="meta" id="meta">Loading fixtures…</div>
+  <div id="fixtures"></div>
+
+  <script>
+    function groupByDate(fixtures) {
+      const groups = {};
+      for (const f of fixtures) {
+        const d = f.date || "TBC";
+        (groups[d] ||= []).push(f);
+      }
+      for (const d of Object.keys(groups)) {
+        groups[d].sort((a,b) => (a.kickoff_time || "").localeCompare(b.kickoff_time || ""));
+      }
+      return Object.entries(groups).sort(([a],[b]) => a.localeCompare(b));
+    }
+
+    function formatDate(iso) {
+      if (!iso || iso === "TBC") return "TBC";
+      const dt = new Date(iso + "T00:00:00");
+      return dt.toLocaleDateString("en-GB", { weekday: "long", day: "2-digit", month: "short" });
+    }
+
+    async function run() {
+      const res = await fetch("./fixtures.json", { cache: "no-store" });
+      if (!res.ok) throw new Error("Couldn’t load fixtures.json (" + res.status + ")");
+      const data = await res.json();
+
+      const fixtures = Array.isArray(data.fixtures) ? data.fixtures : [];
+      document.getElementById("meta").textContent =
+        `Updated: ${data.generated_at_utc || "unknown"} (UK time) • Showing ${fixtures.length} fixtures`;
+
+      const wrap = document.getElementById("fixtures");
+      wrap.innerHTML = "";
+
+      const grouped = groupByDate(fixtures);
+      if (!grouped.length) {
+        wrap.innerHTML = `<p class="error">No fixtures found in fixtures.json.</p>`;
+        return;
+      }
+
+      for (const [date, items] of grouped) {
+        const day = document.createElement("div");
+        day.className = "day";
+        day.textContent = formatDate(date);
+        wrap.appendChild(day);
+
+        for (const f of items) {
+          const div = document.createElement("div");
+          div.className = "match";
+          const channels = (f.tv_channels || []).join(", ");
+          div.innerHTML = `
+            <div>
+              <span class="time">${f.kickoff_time || ""}</span>
+              <span class="teams">${f.home || ""} vs ${f.away || ""}</span>
+              <span class="comp">(${f.competition || ""})</span>
+            </div>
+            <div class="channels">${channels}</div>
+          `;
+          wrap.appendChild(div);
+        }
+      }
+    }
+
+    run().catch(err => {
+      document.getElementById("meta").innerHTML = `<span class="error">${err.message}</span>`;
+      console.error(err);
+    });
+  </script>
+</body>
+</html>
