@@ -1,0 +1,14 @@
+{
+  "generated_at_utc": "2026-02-14T10:00:00Z",
+  "timezone": "Europe/London",
+  "fixtures": [
+    {
+      "date": "2026-02-21",
+      "kickoff_time": "17:30",
+      "home": "Arsenal",
+      "away": "Newcastle",
+      "competition": "Premier League",
+      "tv_channels": ["Sky Sports Main Event"]
+    }
+  ]
+}
