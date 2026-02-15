@@ -5,133 +5,139 @@ from datetime import datetime, timezone, date
 import requests
 from bs4 import BeautifulSoup
 
-# Premier League-only page (much cleaner)
-URL = "https://www.skysports.com/watch/football-on-sky/competitions/premier-league"
+# Live Football On TV - Premier League listings
+URL = "https://www.live-footballontv.com/live-premier-league-football-on-tv.html"
 HEADERS = {
     "User-Agent": "PubFixturesBot/1.0 (+https://stokeanddagger.github.io/pub-fixtures/)"
 }
 
-DATE_RE = re.compile(
-    r"^(Mon|Tue|Wed|Thu|Fri|Sat|Sun)\s+(\d{1,2})(st|nd|rd|th)\s+([A-Za-z]+)$"
+# Example on page: "Wednesday 18th February 2026"
+FULL_DATE_RE = re.compile(
+    r"^(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\s+(\d{1,2})(st|nd|rd|th)\s+([A-Za-z]+)\s+(\d{4})$"
 )
 TIME_RE = re.compile(r"^\d{1,2}:\d{2}$")
-SKY_RE = re.compile(r"\bSky Sports\b", re.I)
 
 MONTHS = {
     "january": 1, "february": 2, "march": 3, "april": 4, "may": 5, "june": 6,
     "july": 7, "august": 8, "september": 9, "october": 10, "november": 11, "december": 12
 }
 
-IGNORE_LINES = {
-    "Match Preview",
-    "Remote record",
-    "Load More",
-    "Full Football Fixtures List",
-    "Full Fixtures & Results",
-}
-
 def clean(s: str) -> str:
     return re.sub(r"\s+", " ", (s or "").strip())
 
-def strip_times_in_parens(s: str) -> str:
-    # "Sky Sports Main Event (17:00)" -> "Sky Sports Main Event"
-    return re.sub(r"\s*\([^)]*\)\s*", "", s).strip()
-
-def parse_date_label(label: str, year: int) -> tuple[str | None, int | None]:
-    m = DATE_RE.match(label)
+def parse_full_date(label: str) -> str | None:
+    m = FULL_DATE_RE.match(label)
     if not m:
-        return None, None
+        return None
     day = int(m.group(2))
     month_name = m.group(4).lower()
+    year = int(m.group(5))
     month = MONTHS.get(month_name)
     if not month:
-        return None, None
-    return date(year, month, day).isoformat(), month
+        return None
+    return date(year, month, day).isoformat()
+
+def extract_channels(ch_line: str) -> list[str]:
+    """
+    Example line:
+      "Sky Sports Main Event Sky Sports Premier League Sky Sports Ultra HDR"
+      "TNT Sports 1 TNT Sports Ultimate"
+      "Sky Sports+"
+      "Sky Sports TBC"
+    We split into channels whenever we see "Sky Sports*" or "TNT Sports*".
+    """
+    tokens = ch_line.split()
+    channels: list[str] = []
+
+    def is_prefix(i: int) -> bool:
+        if i + 1 >= len(tokens):
+            return False
+        # Sky Sports / Sky Sports+ / Sky SportsHD etc
+        if tokens[i] == "Sky" and tokens[i + 1].startswith("Sports"):
+            return True
+        if tokens[i] == "TNT" and tokens[i + 1].startswith("Sports"):
+            return True
+        return False
+
+    i = 0
+    while i < len(tokens):
+        if not is_prefix(i):
+            i += 1
+            continue
+
+        start = i
+        i += 2
+        while i < len(tokens) and not is_prefix(i):
+            i += 1
+        channels.append(" ".join(tokens[start:i]).strip())
+
+    # De-dupe while preserving order
+    seen = set()
+    out = []
+    for c in channels:
+        if c and c not in seen:
+            seen.add(c)
+            out.append(c)
+    return out
 
 def scrape() -> dict:
     resp = requests.get(URL, headers=HEADERS, timeout=25)
     resp.raise_for_status()
-
     soup = BeautifulSoup(resp.text, "html.parser")
 
     raw_lines = soup.get_text("\n", strip=True).split("\n")
     lines = [clean(l) for l in raw_lines if clean(l)]
-    lines = [l for l in lines if l not in IGNORE_LINES]
 
     fixtures = []
     current_label = None
     current_iso = None
 
-    year = datetime.now(timezone.utc).year
-    last_month = None
-
     i = 0
     while i < len(lines):
         line = lines[i]
 
-        # Date headings appear like "### Wed 18th February" on this page text extraction
-        candidate = line.replace("### ", "").strip()
-
-        iso, month = parse_date_label(candidate, year)
-        if iso and month:
-            current_label = candidate
-            if last_month is not None and month < last_month:
-                year += 1
-                iso, month = parse_date_label(current_label, year)
-            last_month = month
+        # Date heading, e.g. "Saturday 21st February 2026"
+        iso = parse_full_date(line)
+        if iso:
+            current_label = line
             current_iso = iso
             i += 1
             continue
 
-        # Match triplet: home, time, away
-        if current_iso and i + 2 < len(lines):
-            home = lines[i]
-            kickoff = lines[i + 1]
-            away = lines[i + 2]
+        # Expect: time -> "Home v Away" -> "Premier League" -> channels line
+        if current_iso and TIME_RE.match(line) and i + 3 < len(lines):
+            kickoff = line
+            match_line = lines[i + 1]
+            competition = lines[i + 2]
+            channels_line = lines[i + 3]
 
-            if TIME_RE.match(kickoff):
-                # Find the meta line (e.g. "Premier League, Sky Sports Main Event (17:00), ...")
-                meta = None
-                j = i + 3
-                while j < min(i + 12, len(lines)):
-                    if "," in lines[j] and SKY_RE.search(lines[j]):
-                        meta = lines[j]
-                        break
-                    j += 1
+            if " v " in match_line:
+                home, away = [clean(x) for x in match_line.split(" v ", 1)]
+                tv_channels = extract_channels(channels_line)
 
-                if meta:
-                    parts = [p.strip() for p in meta.split(",")]
-                    competition = parts[0]
-                    channel_parts = parts[1:]
+                # Keep only Sky/TNT matches
+                if tv_channels and any(c.startswith(("Sky Sports", "TNT Sports")) for c in tv_channels):
+                    match_id = f"{current_iso}-{kickoff}-{home}-{away}".lower()
+                    match_id = re.sub(r"[^a-z0-9]+", "-", match_id).strip("-")
 
-                    tv_channels = []
-                    for cp in channel_parts:
-                        name = strip_times_in_parens(cp)
-                        if name:
-                            tv_channels.append(name)
+                    fixtures.append({
+                        "id": match_id,
+                        "date_label": current_label,
+                        "date": current_iso,
+                        "kickoff_time": kickoff,
+                        "home": home,
+                        "away": away,
+                        "competition": competition,
+                        "tv_channels": tv_channels
+                    })
 
-                    if tv_channels:
-                        match_id = f"{current_iso}-{kickoff}-{home}-{away}".lower()
-                        match_id = re.sub(r"[^a-z0-9]+", "-", match_id).strip("-")
-
-                        fixtures.append({
-                            "id": match_id,
-                            "date_label": current_label,
-                            "date": current_iso,
-                            "kickoff_time": kickoff,
-                            "home": home,
-                            "away": away,
-                            "competition": competition,
-                            "tv_channels": tv_channels
-                        })
-
-                        i = j + 1
-                        continue
+                    i += 4
+                    continue
 
         i += 1
 
     return {
-        "source": "skysports-watch-football-on-sky-premier-league",
+        "source": "live-footballontv-premier-league",
         "source_url": URL,
         "generated_at_utc": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
         "timezone": "Europe/London",
