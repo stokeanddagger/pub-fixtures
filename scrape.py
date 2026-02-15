@@ -75,18 +75,19 @@ def scrape() -> dict:
         line = lines[i]
 
         # Date heading lines appear exactly like "### Sat 14th February" in the extracted text. :contentReference[oaicite:2]{index=2}
-        candidate = line.replace("### ", "").strip()
+                candidate = line.replace("### ", "").strip()
 
-iso, month = parse_date_label(candidate, year)
-if iso and month:
-    current_label = candidate
-    if last_month is not None and month < last_month:
-        year += 1
-        iso, month = parse_date_label(current_label, year)
-    last_month = month
-    current_iso = iso
-    i += 1
-    continue
+        iso, month = parse_date_label(candidate, year)
+        if iso and month:
+            current_label = candidate
+            if last_month is not None and month < last_month:
+                year += 1
+                iso, month = parse_date_label(current_label, year)
+            last_month = month
+            current_iso = iso
+            i += 1
+            continue
+
 
         # Look for match triplet: team, time, team
         if current_iso and i + 2 < len(lines):
