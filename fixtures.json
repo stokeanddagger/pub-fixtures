@@ -1,134 +1,438 @@
 {
-  "source": "skysports-watch-football-on-sky-premier-league",
-  "source_url": "https://www.skysports.com/watch/football-on-sky/competitions/premier-league",
-  "generated_at_utc": "2026-02-15T10:50:14.936015Z",
+  "source": "live-footballontv-premier-league",
+  "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
+  "generated_at_utc": "2026-02-15T11:29:37.783084Z",
   "timezone": "Europe/London",
   "fixtures": [
     {
-      "id": "2026-02-18-20-00-wolverhampton-wanderers-arsenal",
-      "date_label": "Wed 18th February",
+      "id": "2026-02-18-20-00-wolves-arsenal",
+      "date_label": "Wednesday 18th February 2026",
       "date": "2026-02-18",
       "kickoff_time": "20:00",
-      "home": "Wolverhampton Wanderers",
+      "home": "Wolves",
       "away": "Arsenal",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports Main Event HD"
+        "Sky Sports Main Event"
       ]
     },
     {
-      "id": "2026-02-21-17-30-west-ham-united-bournemouth",
-      "date_label": "Sat 21st February",
+      "id": "2026-02-21-17-30-west-ham-united-afc-bournemouth",
+      "date_label": "Saturday 21st February 2026",
       "date": "2026-02-21",
       "kickoff_time": "17:30",
       "home": "West Ham United",
-      "away": "Bournemouth",
+      "away": "AFC Bournemouth",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports Main Event",
-        "Sky Sports Premier League"
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-02-21-20-00-manchester-city-newcastle-united",
+      "date_label": "Saturday 21st February 2026",
+      "date": "2026-02-21",
+      "kickoff_time": "20:00",
+      "home": "Manchester City",
+      "away": "Newcastle United",
+      "competition": "Premier League",
+      "tv_channels": [
+        "TNT Sports 1"
+      ]
+    },
+    {
+      "id": "2026-02-22-14-00-crystal-palace-wolves",
+      "date_label": "Sunday 22nd February 2026",
+      "date": "2026-02-22",
+      "kickoff_time": "14:00",
+      "home": "Crystal Palace",
+      "away": "Wolves",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Ultra HDR"
+      ]
+    },
+    {
+      "id": "2026-02-22-14-00-nottingham-forest-liverpool",
+      "date_label": "Sunday 22nd February 2026",
+      "date": "2026-02-22",
+      "kickoff_time": "14:00",
+      "home": "Nottingham Forest",
+      "away": "Liverpool",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
       ]
     },
     {
       "id": "2026-02-22-14-00-sunderland-fulham",
-      "date_label": "Sun 22nd February",
+      "date_label": "Sunday 22nd February 2026",
       "date": "2026-02-22",
       "kickoff_time": "14:00",
       "home": "Sunderland",
       "away": "Fulham",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports Main Event",
         "Sky Sports Premier League"
       ]
     },
     {
       "id": "2026-02-22-16-30-tottenham-hotspur-arsenal",
-      "date_label": "Sun 22nd February",
+      "date_label": "Sunday 22nd February 2026",
       "date": "2026-02-22",
       "kickoff_time": "16:30",
       "home": "Tottenham Hotspur",
       "away": "Arsenal",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports Main Event",
-        "Sky Sports Premier League"
+        "Sky Sports Main Event"
       ]
     },
     {
       "id": "2026-02-23-20-00-everton-manchester-united",
-      "date_label": "Mon 23rd February",
+      "date_label": "Monday 23rd February 2026",
       "date": "2026-02-23",
       "kickoff_time": "20:00",
       "home": "Everton",
       "away": "Manchester United",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports Premier League",
         "Sky Sports Main Event"
       ]
     },
     {
-      "id": "2026-02-27-20-00-wolverhampton-wanderers-aston-villa",
-      "date_label": "Fri 27th February",
+      "id": "2026-02-27-20-00-wolves-aston-villa",
+      "date_label": "Friday 27th February 2026",
       "date": "2026-02-27",
       "kickoff_time": "20:00",
-      "home": "Wolverhampton Wanderers",
+      "home": "Wolves",
       "away": "Aston Villa",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports Main Event",
-        "Sky Sports Premier League"
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-02-28-12-30-afc-bournemouth-sunderland",
+      "date_label": "Saturday 28th February 2026",
+      "date": "2026-02-28",
+      "kickoff_time": "12:30",
+      "home": "AFC Bournemouth",
+      "away": "Sunderland",
+      "competition": "Premier League",
+      "tv_channels": [
+        "TNT Sports 1"
       ]
     },
     {
       "id": "2026-02-28-17-30-leeds-united-manchester-city",
-      "date_label": "Sat 28th February",
+      "date_label": "Saturday 28th February 2026",
       "date": "2026-02-28",
       "kickoff_time": "17:30",
       "home": "Leeds United",
       "away": "Manchester City",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports Premier League",
         "Sky Sports Main Event"
       ]
     },
     {
+      "id": "2026-03-01-14-00-brighton-hove-albion-nottingham-forest",
+      "date_label": "Sunday 1st March 2026",
+      "date": "2026-03-01",
+      "kickoff_time": "14:00",
+      "home": "Brighton & Hove Albion",
+      "away": "Nottingham Forest",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
       "id": "2026-03-01-14-00-fulham-tottenham-hotspur",
-      "date_label": "Sun 1st March",
+      "date_label": "Sunday 1st March 2026",
       "date": "2026-03-01",
       "kickoff_time": "14:00",
       "home": "Fulham",
       "away": "Tottenham Hotspur",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports Premier League",
         "Sky Sports Main Event"
       ]
     },
     {
       "id": "2026-03-01-14-00-manchester-united-crystal-palace",
-      "date_label": "Sun 1st March",
+      "date_label": "Sunday 1st March 2026",
       "date": "2026-03-01",
       "kickoff_time": "14:00",
       "home": "Manchester United",
       "away": "Crystal Palace",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports Main Event"
+        "Sky Sports TBC"
       ]
     },
     {
       "id": "2026-03-01-16-30-arsenal-chelsea",
-      "date_label": "Sun 1st March",
+      "date_label": "Sunday 1st March 2026",
       "date": "2026-03-01",
       "kickoff_time": "16:30",
       "home": "Arsenal",
       "away": "Chelsea",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports Premier League",
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-03-03-19-30-afc-bournemouth-brentford",
+      "date_label": "Tuesday 3rd March 2026",
+      "date": "2026-03-03",
+      "kickoff_time": "19:30",
+      "home": "AFC Bournemouth",
+      "away": "Brentford",
+      "competition": "Premier League",
+      "tv_channels": [
+        "TNT Sports 4"
+      ]
+    },
+    {
+      "id": "2026-03-03-19-30-everton-burnley",
+      "date_label": "Tuesday 3rd March 2026",
+      "date": "2026-03-03",
+      "kickoff_time": "19:30",
+      "home": "Everton",
+      "away": "Burnley",
+      "competition": "Premier League",
+      "tv_channels": [
+        "TNT Sports 3"
+      ]
+    },
+    {
+      "id": "2026-03-03-19-30-leeds-united-sunderland",
+      "date_label": "Tuesday 3rd March 2026",
+      "date": "2026-03-03",
+      "kickoff_time": "19:30",
+      "home": "Leeds United",
+      "away": "Sunderland",
+      "competition": "Premier League",
+      "tv_channels": [
+        "TNT Sports 2"
+      ]
+    },
+    {
+      "id": "2026-03-03-20-15-wolves-liverpool",
+      "date_label": "Tuesday 3rd March 2026",
+      "date": "2026-03-03",
+      "kickoff_time": "20:15",
+      "home": "Wolves",
+      "away": "Liverpool",
+      "competition": "Premier League",
+      "tv_channels": [
+        "TNT Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-03-04-19-30-aston-villa-chelsea",
+      "date_label": "Wednesday 4th March 2026",
+      "date": "2026-03-04",
+      "kickoff_time": "19:30",
+      "home": "Aston Villa",
+      "away": "Chelsea",
+      "competition": "Premier League",
+      "tv_channels": [
+        "TNT Sports 3"
+      ]
+    },
+    {
+      "id": "2026-03-04-19-30-brighton-hove-albion-arsenal",
+      "date_label": "Wednesday 4th March 2026",
+      "date": "2026-03-04",
+      "kickoff_time": "19:30",
+      "home": "Brighton & Hove Albion",
+      "away": "Arsenal",
+      "competition": "Premier League",
+      "tv_channels": [
+        "TNT Sports 2"
+      ]
+    },
+    {
+      "id": "2026-03-04-19-30-fulham-west-ham-united",
+      "date_label": "Wednesday 4th March 2026",
+      "date": "2026-03-04",
+      "kickoff_time": "19:30",
+      "home": "Fulham",
+      "away": "West Ham United",
+      "competition": "Premier League",
+      "tv_channels": [
+        "TNT Sports 5"
+      ]
+    },
+    {
+      "id": "2026-03-04-19-30-manchester-city-nottingham-forest",
+      "date_label": "Wednesday 4th March 2026",
+      "date": "2026-03-04",
+      "kickoff_time": "19:30",
+      "home": "Manchester City",
+      "away": "Nottingham Forest",
+      "competition": "Premier League",
+      "tv_channels": [
+        "TNT Sports 4"
+      ]
+    },
+    {
+      "id": "2026-03-04-20-15-newcastle-united-manchester-united",
+      "date_label": "Wednesday 4th March 2026",
+      "date": "2026-03-04",
+      "kickoff_time": "20:15",
+      "home": "Newcastle United",
+      "away": "Manchester United",
+      "competition": "Premier League",
+      "tv_channels": [
+        "TNT Sports 1"
+      ]
+    },
+    {
+      "id": "2026-03-05-20-00-tottenham-hotspur-crystal-palace",
+      "date_label": "Thursday 5th March 2026",
+      "date": "2026-03-05",
+      "kickoff_time": "20:00",
+      "home": "Tottenham Hotspur",
+      "away": "Crystal Palace",
+      "competition": "Premier League",
+      "tv_channels": [
+        "TNT Sports 1"
+      ]
+    },
+    {
+      "id": "2026-03-14-12-30-west-ham-united-manchester-city",
+      "date_label": "Saturday 14th March 2026",
+      "date": "2026-03-14",
+      "kickoff_time": "12:30",
+      "home": "West Ham United",
+      "away": "Manchester City",
+      "competition": "Premier League",
+      "tv_channels": [
+        "TNT Sports 1"
+      ]
+    },
+    {
+      "id": "2026-03-14-17-30-chelsea-newcastle-united",
+      "date_label": "Saturday 14th March 2026",
+      "date": "2026-03-14",
+      "kickoff_time": "17:30",
+      "home": "Chelsea",
+      "away": "Newcastle United",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-03-15-14-00-arsenal-everton",
+      "date_label": "Sunday 15th March 2026",
+      "date": "2026-03-15",
+      "kickoff_time": "14:00",
+      "home": "Arsenal",
+      "away": "Everton",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-03-15-16-30-liverpool-tottenham-hotspur",
+      "date_label": "Sunday 15th March 2026",
+      "date": "2026-03-15",
+      "kickoff_time": "16:30",
+      "home": "Liverpool",
+      "away": "Tottenham Hotspur",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-03-16-20-00-brentford-wolves",
+      "date_label": "Monday 16th March 2026",
+      "date": "2026-03-16",
+      "kickoff_time": "20:00",
+      "home": "Brentford",
+      "away": "Wolves",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-03-20-20-00-afc-bournemouth-manchester-united",
+      "date_label": "Friday 20th March 2026",
+      "date": "2026-03-20",
+      "kickoff_time": "20:00",
+      "home": "AFC Bournemouth",
+      "away": "Manchester United",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-03-21-12-30-brighton-hove-albion-liverpool",
+      "date_label": "Saturday 21st March 2026",
+      "date": "2026-03-21",
+      "kickoff_time": "12:30",
+      "home": "Brighton & Hove Albion",
+      "away": "Liverpool",
+      "competition": "Premier League",
+      "tv_channels": [
+        "TNT Sports 1"
+      ]
+    },
+    {
+      "id": "2026-03-21-17-30-everton-chelsea",
+      "date_label": "Saturday 21st March 2026",
+      "date": "2026-03-21",
+      "kickoff_time": "17:30",
+      "home": "Everton",
+      "away": "Chelsea",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-03-21-20-00-leeds-united-brentford",
+      "date_label": "Saturday 21st March 2026",
+      "date": "2026-03-21",
+      "kickoff_time": "20:00",
+      "home": "Leeds United",
+      "away": "Brentford",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-03-22-12-00-newcastle-united-sunderland",
+      "date_label": "Sunday 22nd March 2026",
+      "date": "2026-03-22",
+      "kickoff_time": "12:00",
+      "home": "Newcastle United",
+      "away": "Sunderland",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-03-22-14-15-tottenham-hotspur-nottingham-forest",
+      "date_label": "Sunday 22nd March 2026",
+      "date": "2026-03-22",
+      "kickoff_time": "14:15",
+      "home": "Tottenham Hotspur",
+      "away": "Nottingham Forest",
+      "competition": "Premier League",
+      "tv_channels": [
         "Sky Sports Main Event"
       ]
     }
