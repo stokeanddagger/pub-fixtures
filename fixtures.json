@@ -1,21 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-02-18T20:00:42.573168Z",
+  "generated_at_utc": "2026-02-19T05:14:23.416344Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-02-18-20-00-wolves-arsenal",
-      "date_label": "Wednesday 18th February 2026",
-      "date": "2026-02-18",
-      "kickoff_time": "20:00",
-      "home": "Wolves",
-      "away": "Arsenal",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
     {
       "id": "2026-02-21-17-30-west-ham-united-afc-bournemouth",
       "date_label": "Saturday 21st February 2026",
