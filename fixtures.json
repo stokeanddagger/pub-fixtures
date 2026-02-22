@@ -1,33 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-02-21T19:04:18.844443Z",
+  "generated_at_utc": "2026-02-22T05:10:15.898931Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-02-21-17-30-west-ham-united-afc-bournemouth",
-      "date_label": "Saturday 21st February 2026",
-      "date": "2026-02-21",
-      "kickoff_time": "17:30",
-      "home": "West Ham United",
-      "away": "AFC Bournemouth",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
-    {
-      "id": "2026-02-21-20-00-manchester-city-newcastle-united",
-      "date_label": "Saturday 21st February 2026",
-      "date": "2026-02-21",
-      "kickoff_time": "20:00",
-      "home": "Manchester City",
-      "away": "Newcastle United",
-      "competition": "Premier League",
-      "tv_channels": [
-        "TNT Sports 1"
-      ]
-    },
     {
       "id": "2026-02-22-14-00-crystal-palace-wolves",
       "date_label": "Sunday 22nd February 2026",
