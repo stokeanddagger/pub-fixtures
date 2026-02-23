@@ -1,21 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-02-22T19:04:24.242127Z",
+  "generated_at_utc": "2026-02-23T05:19:37.079734Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-02-22-16-30-tottenham-hotspur-arsenal",
-      "date_label": "Sunday 22nd February 2026",
-      "date": "2026-02-22",
-      "kickoff_time": "16:30",
-      "home": "Tottenham Hotspur",
-      "away": "Arsenal",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
     {
       "id": "2026-02-23-20-00-everton-manchester-united",
       "date_label": "Monday 23rd February 2026",
