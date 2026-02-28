@@ -1,21 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-02-27T19:47:45.838567Z",
+  "generated_at_utc": "2026-02-28T04:35:15.942668Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-02-27-20-00-wolves-aston-villa",
-      "date_label": "Friday 27th February 2026",
-      "date": "2026-02-27",
-      "kickoff_time": "20:00",
-      "home": "Wolves",
-      "away": "Aston Villa",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
     {
       "id": "2026-02-28-12-30-afc-bournemouth-sunderland",
       "date_label": "Saturday 28th February 2026",
