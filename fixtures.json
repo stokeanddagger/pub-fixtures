@@ -1,45 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-03-01T13:50:41.099059Z",
+  "generated_at_utc": "2026-03-01T19:00:12.640255Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-03-01-14-00-brighton-hove-albion-nottingham-forest",
-      "date_label": "Sunday 1st March 2026",
-      "date": "2026-03-01",
-      "kickoff_time": "14:00",
-      "home": "Brighton & Hove Albion",
-      "away": "Nottingham Forest",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Tennis"
-      ]
-    },
-    {
-      "id": "2026-03-01-14-00-fulham-tottenham-hotspur",
-      "date_label": "Sunday 1st March 2026",
-      "date": "2026-03-01",
-      "kickoff_time": "14:00",
-      "home": "Fulham",
-      "away": "Tottenham Hotspur",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports+"
-      ]
-    },
-    {
-      "id": "2026-03-01-14-00-manchester-united-crystal-palace",
-      "date_label": "Sunday 1st March 2026",
-      "date": "2026-03-01",
-      "kickoff_time": "14:00",
-      "home": "Manchester United",
-      "away": "Crystal Palace",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
     {
       "id": "2026-03-01-16-30-arsenal-chelsea",
       "date_label": "Sunday 1st March 2026",
