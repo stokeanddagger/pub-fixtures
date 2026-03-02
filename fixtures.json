@@ -1,7 +1,7 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-03-02T14:29:22.411014Z",
+  "generated_at_utc": "2026-03-02T19:52:19.587040Z",
   "timezone": "Europe/London",
   "fixtures": [
     {
@@ -133,7 +133,7 @@
       "away": "Everton",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports Football"
       ]
     },
     {
@@ -145,7 +145,7 @@
       "away": "Newcastle United",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports Main Event"
       ]
     },
     {
@@ -169,7 +169,7 @@
       "away": "Leeds United",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports Football"
       ]
     },
     {
