@@ -1,7 +1,7 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-03-04T14:09:49.805370Z",
+  "generated_at_utc": "2026-03-04T19:51:58.052418Z",
   "timezone": "Europe/London",
   "fixtures": [
     {
@@ -239,6 +239,222 @@
       "kickoff_time": "14:15",
       "home": "Tottenham Hotspur",
       "away": "Nottingham Forest",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-04-10-20-00-west-ham-united-wolves",
+      "date_label": "Friday 10th April 2026",
+      "date": "2026-04-10",
+      "kickoff_time": "20:00",
+      "home": "West Ham United",
+      "away": "Wolves",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-04-11-12-30-arsenal-afc-bournemouth",
+      "date_label": "Saturday 11th April 2026",
+      "date": "2026-04-11",
+      "kickoff_time": "12:30",
+      "home": "Arsenal",
+      "away": "AFC Bournemouth",
+      "competition": "Premier League",
+      "tv_channels": [
+        "TNT Sports 1"
+      ]
+    },
+    {
+      "id": "2026-04-11-17-30-liverpool-fulham",
+      "date_label": "Saturday 11th April 2026",
+      "date": "2026-04-11",
+      "kickoff_time": "17:30",
+      "home": "Liverpool",
+      "away": "Fulham",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-04-12-14-00-sunderland-tottenham-hotspur",
+      "date_label": "Sunday 12th April 2026",
+      "date": "2026-04-12",
+      "kickoff_time": "14:00",
+      "home": "Sunderland",
+      "away": "Tottenham Hotspur",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-04-12-16-30-chelsea-manchester-city",
+      "date_label": "Sunday 12th April 2026",
+      "date": "2026-04-12",
+      "kickoff_time": "16:30",
+      "home": "Chelsea",
+      "away": "Manchester City",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-04-13-20-00-manchester-united-leeds-united",
+      "date_label": "Monday 13th April 2026",
+      "date": "2026-04-13",
+      "kickoff_time": "20:00",
+      "home": "Manchester United",
+      "away": "Leeds United",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-04-18-12-30-brentford-fulham",
+      "date_label": "Saturday 18th April 2026",
+      "date": "2026-04-18",
+      "kickoff_time": "12:30",
+      "home": "Brentford",
+      "away": "Fulham",
+      "competition": "Premier League",
+      "tv_channels": [
+        "TNT Sports 1"
+      ]
+    },
+    {
+      "id": "2026-04-18-17-30-tottenham-hotspur-brighton-hove-albion",
+      "date_label": "Saturday 18th April 2026",
+      "date": "2026-04-18",
+      "kickoff_time": "17:30",
+      "home": "Tottenham Hotspur",
+      "away": "Brighton & Hove Albion",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-04-18-20-00-chelsea-manchester-united",
+      "date_label": "Saturday 18th April 2026",
+      "date": "2026-04-18",
+      "kickoff_time": "20:00",
+      "home": "Chelsea",
+      "away": "Manchester United",
+      "competition": "Premier League",
+      "tv_channels": [
+        "TNT Sports 1"
+      ]
+    },
+    {
+      "id": "2026-04-19-14-00-everton-liverpool",
+      "date_label": "Sunday 19th April 2026",
+      "date": "2026-04-19",
+      "kickoff_time": "14:00",
+      "home": "Everton",
+      "away": "Liverpool",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-04-19-16-30-manchester-city-arsenal",
+      "date_label": "Sunday 19th April 2026",
+      "date": "2026-04-19",
+      "kickoff_time": "16:30",
+      "home": "Manchester City",
+      "away": "Arsenal",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-04-20-20-00-crystal-palace-west-ham-united",
+      "date_label": "Monday 20th April 2026",
+      "date": "2026-04-20",
+      "kickoff_time": "20:00",
+      "home": "Crystal Palace",
+      "away": "West Ham United",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-04-24-20-00-sunderland-nottingham-forest",
+      "date_label": "Friday 24th April 2026",
+      "date": "2026-04-24",
+      "kickoff_time": "20:00",
+      "home": "Sunderland",
+      "away": "Nottingham Forest",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-04-25-12-30-fulham-aston-villa",
+      "date_label": "Saturday 25th April 2026",
+      "date": "2026-04-25",
+      "kickoff_time": "12:30",
+      "home": "Fulham",
+      "away": "Aston Villa",
+      "competition": "Premier League",
+      "tv_channels": [
+        "TNT Sports 1"
+      ]
+    },
+    {
+      "id": "2026-04-25-17-30-arsenal-newcastle-united",
+      "date_label": "Saturday 25th April 2026",
+      "date": "2026-04-25",
+      "kickoff_time": "17:30",
+      "home": "Arsenal",
+      "away": "Newcastle United",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-04-26-14-00-burnley-manchester-city",
+      "date_label": "Sunday 26th April 2026",
+      "date": "2026-04-26",
+      "kickoff_time": "14:00",
+      "home": "Burnley",
+      "away": "Manchester City",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-04-26-16-30-brighton-hove-albion-chelsea",
+      "date_label": "Sunday 26th April 2026",
+      "date": "2026-04-26",
+      "kickoff_time": "16:30",
+      "home": "Brighton & Hove Albion",
+      "away": "Chelsea",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-04-27-20-00-manchester-united-brentford",
+      "date_label": "Monday 27th April 2026",
+      "date": "2026-04-27",
+      "kickoff_time": "20:00",
+      "home": "Manchester United",
+      "away": "Brentford",
       "competition": "Premier League",
       "tv_channels": [
         "Sky Sports Main Event"
