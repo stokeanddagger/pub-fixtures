@@ -1,69 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-03-04T19:51:58.052418Z",
+  "generated_at_utc": "2026-03-05T05:04:19.218780Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-03-04-19-30-aston-villa-chelsea",
-      "date_label": "Wednesday 4th March 2026",
-      "date": "2026-03-04",
-      "kickoff_time": "19:30",
-      "home": "Aston Villa",
-      "away": "Chelsea",
-      "competition": "Premier League",
-      "tv_channels": [
-        "TNT Sports 3"
-      ]
-    },
-    {
-      "id": "2026-03-04-19-30-brighton-hove-albion-arsenal",
-      "date_label": "Wednesday 4th March 2026",
-      "date": "2026-03-04",
-      "kickoff_time": "19:30",
-      "home": "Brighton & Hove Albion",
-      "away": "Arsenal",
-      "competition": "Premier League",
-      "tv_channels": [
-        "TNT Sports 2"
-      ]
-    },
-    {
-      "id": "2026-03-04-19-30-fulham-west-ham-united",
-      "date_label": "Wednesday 4th March 2026",
-      "date": "2026-03-04",
-      "kickoff_time": "19:30",
-      "home": "Fulham",
-      "away": "West Ham United",
-      "competition": "Premier League",
-      "tv_channels": [
-        "TNT Sports 5"
-      ]
-    },
-    {
-      "id": "2026-03-04-19-30-manchester-city-nottingham-forest",
-      "date_label": "Wednesday 4th March 2026",
-      "date": "2026-03-04",
-      "kickoff_time": "19:30",
-      "home": "Manchester City",
-      "away": "Nottingham Forest",
-      "competition": "Premier League",
-      "tv_channels": [
-        "TNT Sports 4"
-      ]
-    },
-    {
-      "id": "2026-03-04-20-15-newcastle-united-manchester-united",
-      "date_label": "Wednesday 4th March 2026",
-      "date": "2026-03-04",
-      "kickoff_time": "20:15",
-      "home": "Newcastle United",
-      "away": "Manchester United",
-      "competition": "Premier League",
-      "tv_channels": [
-        "TNT Sports 1"
-      ]
-    },
     {
       "id": "2026-03-05-20-00-tottenham-hotspur-crystal-palace",
       "date_label": "Thursday 5th March 2026",
