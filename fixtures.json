@@ -1,45 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-03-15T13:59:10.868879Z",
+  "generated_at_utc": "2026-03-15T19:18:22.919321Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-03-15-14-00-crystal-palace-leeds-united",
-      "date_label": "Sunday 15th March 2026",
-      "date": "2026-03-15",
-      "kickoff_time": "14:00",
-      "home": "Crystal Palace",
-      "away": "Leeds United",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Cricket"
-      ]
-    },
-    {
-      "id": "2026-03-15-14-00-manchester-united-aston-villa",
-      "date_label": "Sunday 15th March 2026",
-      "date": "2026-03-15",
-      "kickoff_time": "14:00",
-      "home": "Manchester United",
-      "away": "Aston Villa",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
-    {
-      "id": "2026-03-15-14-00-nottingham-forest-fulham",
-      "date_label": "Sunday 15th March 2026",
-      "date": "2026-03-15",
-      "kickoff_time": "14:00",
-      "home": "Nottingham Forest",
-      "away": "Fulham",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Premier League"
-      ]
-    },
     {
       "id": "2026-03-15-16-30-liverpool-tottenham-hotspur",
       "date_label": "Sunday 15th March 2026",
