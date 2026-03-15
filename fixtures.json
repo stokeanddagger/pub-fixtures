@@ -1,45 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-03-14T19:16:27.867168Z",
+  "generated_at_utc": "2026-03-15T05:43:23.620961Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-03-14-17-30-arsenal-everton",
-      "date_label": "Saturday 14th March 2026",
-      "date": "2026-03-14",
-      "kickoff_time": "17:30",
-      "home": "Arsenal",
-      "away": "Everton",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
-    {
-      "id": "2026-03-14-17-30-chelsea-newcastle-united",
-      "date_label": "Saturday 14th March 2026",
-      "date": "2026-03-14",
-      "kickoff_time": "17:30",
-      "home": "Chelsea",
-      "away": "Newcastle United",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Premier League"
-      ]
-    },
-    {
-      "id": "2026-03-14-20-00-west-ham-united-manchester-city",
-      "date_label": "Saturday 14th March 2026",
-      "date": "2026-03-14",
-      "kickoff_time": "20:00",
-      "home": "West Ham United",
-      "away": "Manchester City",
-      "competition": "Premier League",
-      "tv_channels": [
-        "TNT Sports 1"
-      ]
-    },
     {
       "id": "2026-03-15-14-00-crystal-palace-leeds-united",
       "date_label": "Sunday 15th March 2026",
