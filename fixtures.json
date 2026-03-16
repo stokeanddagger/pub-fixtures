@@ -1,21 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-03-15T19:18:22.919321Z",
+  "generated_at_utc": "2026-03-16T05:59:29.298623Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-03-15-16-30-liverpool-tottenham-hotspur",
-      "date_label": "Sunday 15th March 2026",
-      "date": "2026-03-15",
-      "kickoff_time": "16:30",
-      "home": "Liverpool",
-      "away": "Tottenham Hotspur",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
     {
       "id": "2026-03-16-20-00-brentford-wolves",
       "date_label": "Monday 16th March 2026",
