@@ -1,21 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-03-16T18:52:35.607006Z",
+  "generated_at_utc": "2026-03-17T01:26:06.297407Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-03-16-20-00-brentford-wolves",
-      "date_label": "Monday 16th March 2026",
-      "date": "2026-03-16",
-      "kickoff_time": "20:00",
-      "home": "Brentford",
-      "away": "Wolves",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
     {
       "id": "2026-03-20-20-00-afc-bournemouth-manchester-united",
       "date_label": "Friday 20th March 2026",
