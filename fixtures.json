@@ -1,7 +1,7 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-03-20T12:41:34.931116Z",
+  "generated_at_utc": "2026-03-20T18:37:44.816032Z",
   "timezone": "Europe/London",
   "fixtures": [
     {
@@ -125,6 +125,30 @@
       ]
     },
     {
+      "id": "2026-04-12-14-00-crystal-palace-newcastle-united",
+      "date_label": "Sunday 12th April 2026",
+      "date": "2026-04-12",
+      "kickoff_time": "14:00",
+      "home": "Crystal Palace",
+      "away": "Newcastle United",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-04-12-14-00-nottingham-forest-aston-villa",
+      "date_label": "Sunday 12th April 2026",
+      "date": "2026-04-12",
+      "kickoff_time": "14:00",
+      "home": "Nottingham Forest",
+      "away": "Aston Villa",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
       "id": "2026-04-12-14-00-sunderland-tottenham-hotspur",
       "date_label": "Sunday 12th April 2026",
       "date": "2026-04-12",
@@ -197,6 +221,18 @@
       ]
     },
     {
+      "id": "2026-04-19-14-00-aston-villa-sunderland",
+      "date_label": "Sunday 19th April 2026",
+      "date": "2026-04-19",
+      "kickoff_time": "14:00",
+      "home": "Aston Villa",
+      "away": "Sunderland",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
       "id": "2026-04-19-14-00-everton-liverpool",
       "date_label": "Sunday 19th April 2026",
       "date": "2026-04-19",
@@ -206,6 +242,18 @@
       "competition": "Premier League",
       "tv_channels": [
         "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-04-19-14-00-nottingham-forest-burnley",
+      "date_label": "Sunday 19th April 2026",
+      "date": "2026-04-19",
+      "kickoff_time": "14:00",
+      "home": "Nottingham Forest",
+      "away": "Burnley",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
       ]
     },
     {
