@@ -1,21 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-03-20T18:37:44.816032Z",
+  "generated_at_utc": "2026-03-21T01:20:11.457650Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-03-20-20-00-afc-bournemouth-manchester-united",
-      "date_label": "Friday 20th March 2026",
-      "date": "2026-03-20",
-      "kickoff_time": "20:00",
-      "home": "AFC Bournemouth",
-      "away": "Manchester United",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
     {
       "id": "2026-03-21-12-30-brighton-hove-albion-liverpool",
       "date_label": "Saturday 21st March 2026",
