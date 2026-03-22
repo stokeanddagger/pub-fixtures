@@ -1,33 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-03-21T18:26:51.974438Z",
+  "generated_at_utc": "2026-03-22T01:29:26.706798Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-03-21-17-30-everton-chelsea",
-      "date_label": "Saturday 21st March 2026",
-      "date": "2026-03-21",
-      "kickoff_time": "17:30",
-      "home": "Everton",
-      "away": "Chelsea",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
-    {
-      "id": "2026-03-21-20-00-leeds-united-brentford",
-      "date_label": "Saturday 21st March 2026",
-      "date": "2026-03-21",
-      "kickoff_time": "20:00",
-      "home": "Leeds United",
-      "away": "Brentford",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
     {
       "id": "2026-03-22-12-00-newcastle-united-sunderland",
       "date_label": "Sunday 22nd March 2026",
