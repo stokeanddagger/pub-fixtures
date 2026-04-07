@@ -1,7 +1,7 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-04-07T13:04:52.405029Z",
+  "generated_at_utc": "2026-04-07T18:54:14.871230Z",
   "timezone": "Europe/London",
   "fixtures": [
     {
@@ -197,6 +197,42 @@
       ]
     },
     {
+      "id": "2026-04-21-20-00-brighton-hove-albion-chelsea",
+      "date_label": "Tuesday 21st April 2026",
+      "date": "2026-04-21",
+      "kickoff_time": "20:00",
+      "home": "Brighton & Hove Albion",
+      "away": "Chelsea",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-04-22-20-00-afc-bournemouth-leeds-united",
+      "date_label": "Wednesday 22nd April 2026",
+      "date": "2026-04-22",
+      "kickoff_time": "20:00",
+      "home": "AFC Bournemouth",
+      "away": "Leeds United",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-04-22-20-00-burnley-manchester-city",
+      "date_label": "Wednesday 22nd April 2026",
+      "date": "2026-04-22",
+      "kickoff_time": "20:00",
+      "home": "Burnley",
+      "away": "Manchester City",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
       "id": "2026-04-24-20-00-sunderland-nottingham-forest",
       "date_label": "Friday 24th April 2026",
       "date": "2026-04-24",
@@ -227,30 +263,6 @@
       "kickoff_time": "17:30",
       "home": "Arsenal",
       "away": "Newcastle United",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
-    {
-      "id": "2026-04-26-14-00-burnley-manchester-city",
-      "date_label": "Sunday 26th April 2026",
-      "date": "2026-04-26",
-      "kickoff_time": "14:00",
-      "home": "Burnley",
-      "away": "Manchester City",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
-    {
-      "id": "2026-04-26-16-30-brighton-hove-albion-chelsea",
-      "date_label": "Sunday 26th April 2026",
-      "date": "2026-04-26",
-      "kickoff_time": "16:30",
-      "home": "Brighton & Hove Albion",
-      "away": "Chelsea",
       "competition": "Premier League",
       "tv_channels": [
         "Sky Sports Main Event"
