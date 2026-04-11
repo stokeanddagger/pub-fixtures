@@ -1,21 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-04-11T12:40:20.637433Z",
+  "generated_at_utc": "2026-04-11T18:34:11.697322Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-04-11-12-30-arsenal-afc-bournemouth",
-      "date_label": "Saturday 11th April 2026",
-      "date": "2026-04-11",
-      "kickoff_time": "12:30",
-      "home": "Arsenal",
-      "away": "AFC Bournemouth",
-      "competition": "Premier League",
-      "tv_channels": [
-        "TNT Sports 1"
-      ]
-    },
     {
       "id": "2026-04-11-17-30-liverpool-fulham",
       "date_label": "Saturday 11th April 2026",
