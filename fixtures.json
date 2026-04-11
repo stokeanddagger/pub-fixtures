@@ -1,21 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-04-10T18:41:45.847722Z",
+  "generated_at_utc": "2026-04-11T01:44:16.466321Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-04-10-20-00-west-ham-united-wolves",
-      "date_label": "Friday 10th April 2026",
-      "date": "2026-04-10",
-      "kickoff_time": "20:00",
-      "home": "West Ham United",
-      "away": "Wolves",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
     {
       "id": "2026-04-11-12-30-arsenal-afc-bournemouth",
       "date_label": "Saturday 11th April 2026",
