@@ -1,21 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-04-11T18:34:11.697322Z",
+  "generated_at_utc": "2026-04-12T01:55:40.218261Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-04-11-17-30-liverpool-fulham",
-      "date_label": "Saturday 11th April 2026",
-      "date": "2026-04-11",
-      "kickoff_time": "17:30",
-      "home": "Liverpool",
-      "away": "Fulham",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
     {
       "id": "2026-04-12-14-00-crystal-palace-newcastle-united",
       "date_label": "Sunday 12th April 2026",
