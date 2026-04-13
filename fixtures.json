@@ -1,7 +1,7 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-04-13T13:08:27.347205Z",
+  "generated_at_utc": "2026-04-13T19:05:24.277250Z",
   "timezone": "Europe/London",
   "fixtures": [
     {
@@ -133,7 +133,7 @@
       "away": "Leeds United",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports Premier League"
       ]
     },
     {
