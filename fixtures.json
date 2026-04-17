@@ -1,7 +1,7 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-04-17T13:02:51.530264Z",
+  "generated_at_utc": "2026-04-17T18:49:20.306087Z",
   "timezone": "Europe/London",
   "fixtures": [
     {
@@ -209,6 +209,18 @@
       ]
     },
     {
+      "id": "2026-05-03-14-00-afc-bournemouth-crystal-palace",
+      "date_label": "Sunday 3rd May 2026",
+      "date": "2026-05-03",
+      "kickoff_time": "14:00",
+      "home": "AFC Bournemouth",
+      "away": "Crystal Palace",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
       "id": "2026-05-03-15-30-manchester-united-liverpool",
       "date_label": "Sunday 3rd May 2026",
       "date": "2026-05-03",
@@ -278,6 +290,30 @@
       "competition": "Premier League",
       "tv_channels": [
         "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-05-10-14-00-burnley-aston-villa",
+      "date_label": "Sunday 10th May 2026",
+      "date": "2026-05-10",
+      "kickoff_time": "14:00",
+      "home": "Burnley",
+      "away": "Aston Villa",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-05-10-14-00-crystal-palace-everton",
+      "date_label": "Sunday 10th May 2026",
+      "date": "2026-05-10",
+      "kickoff_time": "14:00",
+      "home": "Crystal Palace",
+      "away": "Everton",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
       ]
     },
     {
