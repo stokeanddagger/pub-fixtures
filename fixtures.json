@@ -1,7 +1,7 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-04-17T07:23:02.248179Z",
+  "generated_at_utc": "2026-04-17T13:02:51.530264Z",
   "timezone": "Europe/London",
   "fixtures": [
     {
@@ -197,18 +197,6 @@
       ]
     },
     {
-      "id": "2026-05-02-12-30-aston-villa-tottenham-hotspur",
-      "date_label": "Saturday 2nd May 2026",
-      "date": "2026-05-02",
-      "kickoff_time": "12:30",
-      "home": "Aston Villa",
-      "away": "Tottenham Hotspur",
-      "competition": "Premier League",
-      "tv_channels": [
-        "TNT Sports 1"
-      ]
-    },
-    {
       "id": "2026-05-02-17-30-arsenal-fulham",
       "date_label": "Saturday 2nd May 2026",
       "date": "2026-05-02",
@@ -230,6 +218,18 @@
       "competition": "Premier League",
       "tv_channels": [
         "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-05-03-19-00-aston-villa-tottenham-hotspur",
+      "date_label": "Sunday 3rd May 2026",
+      "date": "2026-05-03",
+      "kickoff_time": "19:00",
+      "home": "Aston Villa",
+      "away": "Tottenham Hotspur",
+      "competition": "Premier League",
+      "tv_channels": [
+        "TNT Sports 1"
       ]
     },
     {
