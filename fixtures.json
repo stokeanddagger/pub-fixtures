@@ -1,33 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-04-18T18:37:19.371765Z",
+  "generated_at_utc": "2026-04-19T02:00:18.568767Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-04-18-17-30-tottenham-hotspur-brighton-hove-albion",
-      "date_label": "Saturday 18th April 2026",
-      "date": "2026-04-18",
-      "kickoff_time": "17:30",
-      "home": "Tottenham Hotspur",
-      "away": "Brighton & Hove Albion",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
-    {
-      "id": "2026-04-18-20-00-chelsea-manchester-united",
-      "date_label": "Saturday 18th April 2026",
-      "date": "2026-04-18",
-      "kickoff_time": "20:00",
-      "home": "Chelsea",
-      "away": "Manchester United",
-      "competition": "Premier League",
-      "tv_channels": [
-        "TNT Sports 1"
-      ]
-    },
     {
       "id": "2026-04-19-14-00-aston-villa-sunderland",
       "date_label": "Sunday 19th April 2026",
