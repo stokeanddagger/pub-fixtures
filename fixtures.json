@@ -1,21 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-04-19T18:38:10.819308Z",
+  "generated_at_utc": "2026-04-20T02:01:14.566754Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-04-19-16-30-manchester-city-arsenal",
-      "date_label": "Sunday 19th April 2026",
-      "date": "2026-04-19",
-      "kickoff_time": "16:30",
-      "home": "Manchester City",
-      "away": "Arsenal",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
     {
       "id": "2026-04-20-20-00-crystal-palace-west-ham-united",
       "date_label": "Monday 20th April 2026",
