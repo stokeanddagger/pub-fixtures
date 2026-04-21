@@ -1,21 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-04-20T18:55:47.909877Z",
+  "generated_at_utc": "2026-04-21T01:56:55.878035Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-04-20-20-00-crystal-palace-west-ham-united",
-      "date_label": "Monday 20th April 2026",
-      "date": "2026-04-20",
-      "kickoff_time": "20:00",
-      "home": "Crystal Palace",
-      "away": "West Ham United",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
     {
       "id": "2026-04-21-20-00-brighton-hove-albion-chelsea",
       "date_label": "Tuesday 21st April 2026",
