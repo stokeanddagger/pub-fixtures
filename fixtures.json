@@ -1,7 +1,7 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-04-27T13:23:08.711651Z",
+  "generated_at_utc": "2026-04-27T19:07:07.304256Z",
   "timezone": "Europe/London",
   "fixtures": [
     {
@@ -49,7 +49,7 @@
       "away": "Crystal Palace",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports+"
       ]
     },
     {
@@ -133,7 +133,7 @@
       "away": "Aston Villa",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports+"
       ]
     },
     {
@@ -145,7 +145,7 @@
       "away": "Everton",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports F1"
       ]
     },
     {
