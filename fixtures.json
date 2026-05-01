@@ -1,7 +1,7 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-05-01T13:02:59.795028Z",
+  "generated_at_utc": "2026-05-01T19:01:07.823864Z",
   "timezone": "Europe/London",
   "fixtures": [
     {
@@ -265,7 +265,7 @@
       "away": "Manchester City",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports Main Event"
       ]
     },
     {
@@ -277,7 +277,7 @@
       "away": "Tottenham Hotspur",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports Premier League"
       ]
     }
   ]
