@@ -1,33 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-05-03T12:53:30.846822Z",
+  "generated_at_utc": "2026-05-03T18:48:49.450413Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-05-03-14-00-afc-bournemouth-crystal-palace",
-      "date_label": "Sunday 3rd May 2026",
-      "date": "2026-05-03",
-      "kickoff_time": "14:00",
-      "home": "AFC Bournemouth",
-      "away": "Crystal Palace",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports+"
-      ]
-    },
-    {
-      "id": "2026-05-03-15-30-manchester-united-liverpool",
-      "date_label": "Sunday 3rd May 2026",
-      "date": "2026-05-03",
-      "kickoff_time": "15:30",
-      "home": "Manchester United",
-      "away": "Liverpool",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
     {
       "id": "2026-05-03-19-00-aston-villa-tottenham-hotspur",
       "date_label": "Sunday 3rd May 2026",
