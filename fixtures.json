@@ -1,21 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-05-09T12:59:59.385691Z",
+  "generated_at_utc": "2026-05-09T18:50:06.172552Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-05-09-12-30-liverpool-chelsea",
-      "date_label": "Saturday 9th May 2026",
-      "date": "2026-05-09",
-      "kickoff_time": "12:30",
-      "home": "Liverpool",
-      "away": "Chelsea",
-      "competition": "Premier League",
-      "tv_channels": [
-        "TNT Sports 1"
-      ]
-    },
     {
       "id": "2026-05-09-17-30-manchester-city-brentford",
       "date_label": "Saturday 9th May 2026",
