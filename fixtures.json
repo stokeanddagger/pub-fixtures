@@ -1,57 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-05-10T13:02:08.329633Z",
+  "generated_at_utc": "2026-05-10T18:51:10.205254Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-05-10-14-00-burnley-aston-villa",
-      "date_label": "Sunday 10th May 2026",
-      "date": "2026-05-10",
-      "kickoff_time": "14:00",
-      "home": "Burnley",
-      "away": "Aston Villa",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports+"
-      ]
-    },
-    {
-      "id": "2026-05-10-14-00-crystal-palace-everton",
-      "date_label": "Sunday 10th May 2026",
-      "date": "2026-05-10",
-      "kickoff_time": "14:00",
-      "home": "Crystal Palace",
-      "away": "Everton",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports F1"
-      ]
-    },
-    {
-      "id": "2026-05-10-14-00-nottingham-forest-newcastle-united",
-      "date_label": "Sunday 10th May 2026",
-      "date": "2026-05-10",
-      "kickoff_time": "14:00",
-      "home": "Nottingham Forest",
-      "away": "Newcastle United",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
-    {
-      "id": "2026-05-10-16-30-west-ham-united-arsenal",
-      "date_label": "Sunday 10th May 2026",
-      "date": "2026-05-10",
-      "kickoff_time": "16:30",
-      "home": "West Ham United",
-      "away": "Arsenal",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
     {
       "id": "2026-05-11-20-00-tottenham-hotspur-leeds-united",
       "date_label": "Monday 11th May 2026",
