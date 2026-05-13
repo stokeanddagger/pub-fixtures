@@ -1,7 +1,7 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-05-13T14:12:07.003375Z",
+  "generated_at_utc": "2026-05-13T19:44:02.245252Z",
   "timezone": "Europe/London",
   "fixtures": [
     {
@@ -134,6 +134,126 @@
       "competition": "Premier League",
       "tv_channels": [
         "Sky Sports Premier League"
+      ]
+    },
+    {
+      "id": "2026-05-24-16-00-brighton-hove-albion-manchester-united",
+      "date_label": "Sunday 24th May 2026",
+      "date": "2026-05-24",
+      "kickoff_time": "16:00",
+      "home": "Brighton & Hove Albion",
+      "away": "Manchester United",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-05-24-16-00-burnley-wolves",
+      "date_label": "Sunday 24th May 2026",
+      "date": "2026-05-24",
+      "kickoff_time": "16:00",
+      "home": "Burnley",
+      "away": "Wolves",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-05-24-16-00-crystal-palace-arsenal",
+      "date_label": "Sunday 24th May 2026",
+      "date": "2026-05-24",
+      "kickoff_time": "16:00",
+      "home": "Crystal Palace",
+      "away": "Arsenal",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-05-24-16-00-fulham-newcastle-united",
+      "date_label": "Sunday 24th May 2026",
+      "date": "2026-05-24",
+      "kickoff_time": "16:00",
+      "home": "Fulham",
+      "away": "Newcastle United",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-05-24-16-00-liverpool-brentford",
+      "date_label": "Sunday 24th May 2026",
+      "date": "2026-05-24",
+      "kickoff_time": "16:00",
+      "home": "Liverpool",
+      "away": "Brentford",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-05-24-16-00-manchester-city-aston-villa",
+      "date_label": "Sunday 24th May 2026",
+      "date": "2026-05-24",
+      "kickoff_time": "16:00",
+      "home": "Manchester City",
+      "away": "Aston Villa",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-05-24-16-00-nottingham-forest-afc-bournemouth",
+      "date_label": "Sunday 24th May 2026",
+      "date": "2026-05-24",
+      "kickoff_time": "16:00",
+      "home": "Nottingham Forest",
+      "away": "AFC Bournemouth",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-05-24-16-00-sunderland-chelsea",
+      "date_label": "Sunday 24th May 2026",
+      "date": "2026-05-24",
+      "kickoff_time": "16:00",
+      "home": "Sunderland",
+      "away": "Chelsea",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-05-24-16-00-tottenham-hotspur-everton",
+      "date_label": "Sunday 24th May 2026",
+      "date": "2026-05-24",
+      "kickoff_time": "16:00",
+      "home": "Tottenham Hotspur",
+      "away": "Everton",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-05-24-16-00-west-ham-united-leeds-united",
+      "date_label": "Sunday 24th May 2026",
+      "date": "2026-05-24",
+      "kickoff_time": "16:00",
+      "home": "West Ham United",
+      "away": "Leeds United",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
       ]
     }
   ]
