@@ -1,7 +1,92 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-06-19T03:37:36.303722Z",
+  "generated_at_utc": "2026-06-19T10:15:47.501579Z",
   "timezone": "Europe/London",
-  "fixtures": []
+  "fixtures": [
+    {
+      "id": "2026-08-21-20-00-arsenal-coventry-city",
+      "date_label": "Friday 21st August 2026",
+      "date": "2026-08-21",
+      "kickoff_time": "20:00",
+      "home": "Arsenal",
+      "away": "Coventry City",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-08-22-12-30-hull-city-manchester-united",
+      "date_label": "Saturday 22nd August 2026",
+      "date": "2026-08-22",
+      "kickoff_time": "12:30",
+      "home": "Hull City",
+      "away": "Manchester United",
+      "competition": "Premier League",
+      "tv_channels": [
+        "TNT Sports 1"
+      ]
+    },
+    {
+      "id": "2026-08-22-17-30-brentford-tottenham-hotspur",
+      "date_label": "Saturday 22nd August 2026",
+      "date": "2026-08-22",
+      "kickoff_time": "17:30",
+      "home": "Brentford",
+      "away": "Tottenham Hotspur",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-08-23-14-00-brighton-hove-albion-aston-villa",
+      "date_label": "Sunday 23rd August 2026",
+      "date": "2026-08-23",
+      "kickoff_time": "14:00",
+      "home": "Brighton & Hove Albion",
+      "away": "Aston Villa",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Premier League"
+      ]
+    },
+    {
+      "id": "2026-08-23-14-00-manchester-city-afc-bournemouth",
+      "date_label": "Sunday 23rd August 2026",
+      "date": "2026-08-23",
+      "kickoff_time": "14:00",
+      "home": "Manchester City",
+      "away": "AFC Bournemouth",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-08-23-16-30-newcastle-united-liverpool",
+      "date_label": "Sunday 23rd August 2026",
+      "date": "2026-08-23",
+      "kickoff_time": "16:30",
+      "home": "Newcastle United",
+      "away": "Liverpool",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-08-24-20-00-fulham-chelsea",
+      "date_label": "Monday 24th August 2026",
+      "date": "2026-08-24",
+      "kickoff_time": "20:00",
+      "home": "Fulham",
+      "away": "Chelsea",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    }
+  ]
 }
