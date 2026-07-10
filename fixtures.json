@@ -1,7 +1,7 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-07-10T14:05:00.794031Z",
+  "generated_at_utc": "2026-07-10T19:18:09.054394Z",
   "timezone": "Europe/London",
   "fixtures": [
     {
@@ -133,7 +133,7 @@
       "away": "Brighton & Hove Albion",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports Main Event"
       ]
     },
     {
@@ -145,7 +145,7 @@
       "away": "Brentford",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports Premier League"
       ]
     },
     {
@@ -157,7 +157,7 @@
       "away": "Fulham",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports+"
       ]
     },
     {
