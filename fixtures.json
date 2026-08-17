@@ -1,7 +1,7 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-08-17T12:27:29.029528Z",
+  "generated_at_utc": "2026-08-17T18:26:37.617633Z",
   "timezone": "Europe/London",
   "fixtures": [
     {
@@ -359,6 +359,306 @@
       "kickoff_time": "16:30",
       "home": "Fulham",
       "away": "Manchester United",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-10-10-12-30-arsenal-leeds-united",
+      "date_label": "Saturday 10th October 2026",
+      "date": "2026-10-10",
+      "kickoff_time": "12:30",
+      "home": "Arsenal",
+      "away": "Leeds United",
+      "competition": "Premier League",
+      "tv_channels": [
+        "TNT Sports 1"
+      ]
+    },
+    {
+      "id": "2026-10-10-17-30-manchester-united-tottenham-hotspur",
+      "date_label": "Saturday 10th October 2026",
+      "date": "2026-10-10",
+      "kickoff_time": "17:30",
+      "home": "Manchester United",
+      "away": "Tottenham Hotspur",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-10-11-14-00-crystal-palace-nottingham-forest",
+      "date_label": "Sunday 11th October 2026",
+      "date": "2026-10-11",
+      "kickoff_time": "14:00",
+      "home": "Crystal Palace",
+      "away": "Nottingham Forest",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-10-11-14-00-hull-city-everton",
+      "date_label": "Sunday 11th October 2026",
+      "date": "2026-10-11",
+      "kickoff_time": "14:00",
+      "home": "Hull City",
+      "away": "Everton",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-10-11-16-30-liverpool-manchester-city",
+      "date_label": "Sunday 11th October 2026",
+      "date": "2026-10-11",
+      "kickoff_time": "16:30",
+      "home": "Liverpool",
+      "away": "Manchester City",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-10-12-20-00-coventry-city-newcastle-united",
+      "date_label": "Monday 12th October 2026",
+      "date": "2026-10-12",
+      "kickoff_time": "20:00",
+      "home": "Coventry City",
+      "away": "Newcastle United",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-10-17-12-30-everton-chelsea",
+      "date_label": "Saturday 17th October 2026",
+      "date": "2026-10-17",
+      "kickoff_time": "12:30",
+      "home": "Everton",
+      "away": "Chelsea",
+      "competition": "Premier League",
+      "tv_channels": [
+        "TNT Sports 1"
+      ]
+    },
+    {
+      "id": "2026-10-17-17-30-newcastle-united-aston-villa",
+      "date_label": "Saturday 17th October 2026",
+      "date": "2026-10-17",
+      "kickoff_time": "17:30",
+      "home": "Newcastle United",
+      "away": "Aston Villa",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-10-18-14-00-afc-bournemouth-sunderland",
+      "date_label": "Sunday 18th October 2026",
+      "date": "2026-10-18",
+      "kickoff_time": "14:00",
+      "home": "AFC Bournemouth",
+      "away": "Sunderland",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-10-18-14-00-brighton-hove-albion-crystal-palace",
+      "date_label": "Sunday 18th October 2026",
+      "date": "2026-10-18",
+      "kickoff_time": "14:00",
+      "home": "Brighton & Hove Albion",
+      "away": "Crystal Palace",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-10-18-14-00-leeds-united-manchester-united",
+      "date_label": "Sunday 18th October 2026",
+      "date": "2026-10-18",
+      "kickoff_time": "14:00",
+      "home": "Leeds United",
+      "away": "Manchester United",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-10-18-16-30-nottingham-forest-arsenal",
+      "date_label": "Sunday 18th October 2026",
+      "date": "2026-10-18",
+      "kickoff_time": "16:30",
+      "home": "Nottingham Forest",
+      "away": "Arsenal",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-10-19-20-00-tottenham-hotspur-coventry-city",
+      "date_label": "Monday 19th October 2026",
+      "date": "2026-10-19",
+      "kickoff_time": "20:00",
+      "home": "Tottenham Hotspur",
+      "away": "Coventry City",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-10-23-20-00-ipswich-town-nottingham-forest",
+      "date_label": "Friday 23rd October 2026",
+      "date": "2026-10-23",
+      "kickoff_time": "20:00",
+      "home": "Ipswich Town",
+      "away": "Nottingham Forest",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-10-24-12-30-aston-villa-manchester-city",
+      "date_label": "Saturday 24th October 2026",
+      "date": "2026-10-24",
+      "kickoff_time": "12:30",
+      "home": "Aston Villa",
+      "away": "Manchester City",
+      "competition": "Premier League",
+      "tv_channels": [
+        "TNT Sports 1"
+      ]
+    },
+    {
+      "id": "2026-10-24-17-30-chelsea-tottenham-hotspur",
+      "date_label": "Saturday 24th October 2026",
+      "date": "2026-10-24",
+      "kickoff_time": "17:30",
+      "home": "Chelsea",
+      "away": "Tottenham Hotspur",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-10-25-14-00-crystal-palace-newcastle-united",
+      "date_label": "Sunday 25th October 2026",
+      "date": "2026-10-25",
+      "kickoff_time": "14:00",
+      "home": "Crystal Palace",
+      "away": "Newcastle United",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-10-25-14-00-hull-city-brentford",
+      "date_label": "Sunday 25th October 2026",
+      "date": "2026-10-25",
+      "kickoff_time": "14:00",
+      "home": "Hull City",
+      "away": "Brentford",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-10-25-14-00-manchester-united-afc-bournemouth",
+      "date_label": "Sunday 25th October 2026",
+      "date": "2026-10-25",
+      "kickoff_time": "14:00",
+      "home": "Manchester United",
+      "away": "AFC Bournemouth",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-10-25-16-30-sunderland-leeds-united",
+      "date_label": "Sunday 25th October 2026",
+      "date": "2026-10-25",
+      "kickoff_time": "16:30",
+      "home": "Sunderland",
+      "away": "Leeds United",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-10-31-12-30-chelsea-manchester-united",
+      "date_label": "Saturday 31st October 2026",
+      "date": "2026-10-31",
+      "kickoff_time": "12:30",
+      "home": "Chelsea",
+      "away": "Manchester United",
+      "competition": "Premier League",
+      "tv_channels": [
+        "TNT Sports 1"
+      ]
+    },
+    {
+      "id": "2026-10-31-17-30-tottenham-hotspur-crystal-palace",
+      "date_label": "Saturday 31st October 2026",
+      "date": "2026-10-31",
+      "kickoff_time": "17:30",
+      "home": "Tottenham Hotspur",
+      "away": "Crystal Palace",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-11-01-14-00-aston-villa-fulham",
+      "date_label": "Sunday 1st November 2026",
+      "date": "2026-11-01",
+      "kickoff_time": "14:00",
+      "home": "Aston Villa",
+      "away": "Fulham",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-11-01-16-30-liverpool-arsenal",
+      "date_label": "Sunday 1st November 2026",
+      "date": "2026-11-01",
+      "kickoff_time": "16:30",
+      "home": "Liverpool",
+      "away": "Arsenal",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-11-02-20-00-newcastle-united-everton",
+      "date_label": "Monday 2nd November 2026",
+      "date": "2026-11-02",
+      "kickoff_time": "20:00",
+      "home": "Newcastle United",
+      "away": "Everton",
       "competition": "Premier League",
       "tv_channels": [
         "Sky Sports Main Event"
