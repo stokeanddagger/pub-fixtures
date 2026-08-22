@@ -1,21 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-08-21T18:25:15.740335Z",
+  "generated_at_utc": "2026-08-22T00:48:27.133171Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-08-21-20-00-arsenal-coventry-city",
-      "date_label": "Friday 21st August 2026",
-      "date": "2026-08-21",
-      "kickoff_time": "20:00",
-      "home": "Arsenal",
-      "away": "Coventry City",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
     {
       "id": "2026-08-22-12-30-hull-city-manchester-united",
       "date_label": "Saturday 22nd August 2026",
