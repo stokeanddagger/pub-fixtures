@@ -1,21 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-08-22T12:22:47.233905Z",
+  "generated_at_utc": "2026-08-22T18:17:53.638229Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-08-22-12-30-hull-city-manchester-united",
-      "date_label": "Saturday 22nd August 2026",
-      "date": "2026-08-22",
-      "kickoff_time": "12:30",
-      "home": "Hull City",
-      "away": "Manchester United",
-      "competition": "Premier League",
-      "tv_channels": [
-        "TNT Sports 1"
-      ]
-    },
     {
       "id": "2026-08-22-17-30-brentford-tottenham-hotspur",
       "date_label": "Saturday 22nd August 2026",
