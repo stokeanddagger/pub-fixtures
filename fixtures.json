@@ -1,21 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-08-22T18:17:53.638229Z",
+  "generated_at_utc": "2026-08-23T00:52:51.902910Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-08-22-17-30-brentford-tottenham-hotspur",
-      "date_label": "Saturday 22nd August 2026",
-      "date": "2026-08-22",
-      "kickoff_time": "17:30",
-      "home": "Brentford",
-      "away": "Tottenham Hotspur",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
     {
       "id": "2026-08-23-14-00-brighton-hove-albion-aston-villa",
       "date_label": "Sunday 23rd August 2026",
