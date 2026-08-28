@@ -1,21 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-08-28T08:20:45.423654Z",
+  "generated_at_utc": "2026-08-28T21:37:00.540991Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-08-28-20-00-crystal-palace-manchester-city",
-      "date_label": "Friday 28th August 2026",
-      "date": "2026-08-28",
-      "kickoff_time": "20:00",
-      "home": "Crystal Palace",
-      "away": "Manchester City",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
     {
       "id": "2026-08-29-12-30-liverpool-nottingham-forest",
       "date_label": "Saturday 29th August 2026",
