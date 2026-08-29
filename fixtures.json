@@ -1,7 +1,7 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-08-29T05:01:40.070453Z",
+  "generated_at_utc": "2026-08-29T12:03:12.536183Z",
   "timezone": "Europe/London",
   "fixtures": [
     {
@@ -254,6 +254,18 @@
       "competition": "Premier League",
       "tv_channels": [
         "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-09-20-14-00-manchester-city-sunderland",
+      "date_label": "Sunday 20th September 2026",
+      "date": "2026-09-20",
+      "kickoff_time": "14:00",
+      "home": "Manchester City",
+      "away": "Sunderland",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
       ]
     },
     {
