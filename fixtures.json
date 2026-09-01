@@ -1,7 +1,7 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-09-01T15:51:43.210011Z",
+  "generated_at_utc": "2026-09-01T20:21:40.158333Z",
   "timezone": "Europe/London",
   "fixtures": [
     {
@@ -413,6 +413,18 @@
       ]
     },
     {
+      "id": "2026-10-25-14-00-liverpool-brighton-hove-albion",
+      "date_label": "Sunday 25th October 2026",
+      "date": "2026-10-25",
+      "kickoff_time": "14:00",
+      "home": "Liverpool",
+      "away": "Brighton & Hove Albion",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
       "id": "2026-10-25-14-00-manchester-united-afc-bournemouth",
       "date_label": "Sunday 25th October 2026",
       "date": "2026-10-25",
@@ -461,10 +473,10 @@
       ]
     },
     {
-      "id": "2026-11-01-14-00-aston-villa-fulham",
-      "date_label": "Sunday 1st November 2026",
-      "date": "2026-11-01",
-      "kickoff_time": "14:00",
+      "id": "2026-10-31-20-00-aston-villa-fulham",
+      "date_label": "Saturday 31st October 2026",
+      "date": "2026-10-31",
+      "kickoff_time": "20:00",
       "home": "Aston Villa",
       "away": "Fulham",
       "competition": "Premier League",
