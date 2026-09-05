@@ -1,21 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-09-04T20:06:42.680022Z",
+  "generated_at_utc": "2026-09-05T02:19:02.814461Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-09-04-20-00-ipswich-town-liverpool",
-      "date_label": "Friday 4th September 2026",
-      "date": "2026-09-04",
-      "kickoff_time": "20:00",
-      "home": "Ipswich Town",
-      "away": "Liverpool",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
     {
       "id": "2026-09-05-12-30-newcastle-united-afc-bournemouth",
       "date_label": "Saturday 5th September 2026",
