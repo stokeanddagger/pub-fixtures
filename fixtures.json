@@ -1,7 +1,7 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-09-10T15:36:40.608371Z",
+  "generated_at_utc": "2026-09-10T20:16:52.538706Z",
   "timezone": "Europe/London",
   "fixtures": [
     {
@@ -443,6 +443,378 @@
       "kickoff_time": "20:00",
       "home": "Newcastle United",
       "away": "Everton",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-12-26-12-30-aston-villa-leeds-united",
+      "date_label": "Saturday 26th December 2026",
+      "date": "2026-12-26",
+      "kickoff_time": "12:30",
+      "home": "Aston Villa",
+      "away": "Leeds United",
+      "competition": "Premier League",
+      "tv_channels": [
+        "TNT Sports 1"
+      ]
+    },
+    {
+      "id": "2026-12-26-17-30-hull-city-liverpool",
+      "date_label": "Saturday 26th December 2026",
+      "date": "2026-12-26",
+      "kickoff_time": "17:30",
+      "home": "Hull City",
+      "away": "Liverpool",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-12-26-20-00-newcastle-united-manchester-city",
+      "date_label": "Saturday 26th December 2026",
+      "date": "2026-12-26",
+      "kickoff_time": "20:00",
+      "home": "Newcastle United",
+      "away": "Manchester City",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-12-27-14-00-coventry-city-chelsea",
+      "date_label": "Sunday 27th December 2026",
+      "date": "2026-12-27",
+      "kickoff_time": "14:00",
+      "home": "Coventry City",
+      "away": "Chelsea",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-12-27-16-30-manchester-united-nottingham-forest",
+      "date_label": "Sunday 27th December 2026",
+      "date": "2026-12-27",
+      "kickoff_time": "16:30",
+      "home": "Manchester United",
+      "away": "Nottingham Forest",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-12-27-19-00-crystal-palace-arsenal",
+      "date_label": "Sunday 27th December 2026",
+      "date": "2026-12-27",
+      "kickoff_time": "19:00",
+      "home": "Crystal Palace",
+      "away": "Arsenal",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2026-12-29-19-30-hull-city-leeds-united",
+      "date_label": "Tuesday 29th December 2026",
+      "date": "2026-12-29",
+      "kickoff_time": "19:30",
+      "home": "Hull City",
+      "away": "Leeds United",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-12-29-19-30-tottenham-hotspur-brighton-hove-albion",
+      "date_label": "Tuesday 29th December 2026",
+      "date": "2026-12-29",
+      "kickoff_time": "19:30",
+      "home": "Tottenham Hotspur",
+      "away": "Brighton & Hove Albion",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-12-29-20-15-everton-manchester-city",
+      "date_label": "Tuesday 29th December 2026",
+      "date": "2026-12-29",
+      "kickoff_time": "20:15",
+      "home": "Everton",
+      "away": "Manchester City",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-12-30-19-30-coventry-city-brentford",
+      "date_label": "Wednesday 30th December 2026",
+      "date": "2026-12-30",
+      "kickoff_time": "19:30",
+      "home": "Coventry City",
+      "away": "Brentford",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-12-30-19-30-crystal-palace-afc-bournemouth",
+      "date_label": "Wednesday 30th December 2026",
+      "date": "2026-12-30",
+      "kickoff_time": "19:30",
+      "home": "Crystal Palace",
+      "away": "AFC Bournemouth",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-12-30-19-30-fulham-arsenal",
+      "date_label": "Wednesday 30th December 2026",
+      "date": "2026-12-30",
+      "kickoff_time": "19:30",
+      "home": "Fulham",
+      "away": "Arsenal",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-12-30-19-30-manchester-united-sunderland",
+      "date_label": "Wednesday 30th December 2026",
+      "date": "2026-12-30",
+      "kickoff_time": "19:30",
+      "home": "Manchester United",
+      "away": "Sunderland",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-12-30-19-30-newcastle-united-nottingham-forest",
+      "date_label": "Wednesday 30th December 2026",
+      "date": "2026-12-30",
+      "kickoff_time": "19:30",
+      "home": "Newcastle United",
+      "away": "Nottingham Forest",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-12-30-20-15-aston-villa-liverpool",
+      "date_label": "Wednesday 30th December 2026",
+      "date": "2026-12-30",
+      "kickoff_time": "20:15",
+      "home": "Aston Villa",
+      "away": "Liverpool",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2026-12-30-20-15-ipswich-town-chelsea",
+      "date_label": "Wednesday 30th December 2026",
+      "date": "2026-12-30",
+      "kickoff_time": "20:15",
+      "home": "Ipswich Town",
+      "away": "Chelsea",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2027-01-01-20-00-leeds-united-everton",
+      "date_label": "Friday 1st January 2027",
+      "date": "2027-01-01",
+      "kickoff_time": "20:00",
+      "home": "Leeds United",
+      "away": "Everton",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2027-01-02-12-30-brighton-hove-albion-manchester-united",
+      "date_label": "Saturday 2nd January 2027",
+      "date": "2027-01-02",
+      "kickoff_time": "12:30",
+      "home": "Brighton & Hove Albion",
+      "away": "Manchester United",
+      "competition": "Premier League",
+      "tv_channels": [
+        "TNT Sports 1"
+      ]
+    },
+    {
+      "id": "2027-01-02-17-30-afc-bournemouth-aston-villa",
+      "date_label": "Saturday 2nd January 2027",
+      "date": "2027-01-02",
+      "kickoff_time": "17:30",
+      "home": "AFC Bournemouth",
+      "away": "Aston Villa",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2027-01-03-14-00-chelsea-newcastle-united",
+      "date_label": "Sunday 3rd January 2027",
+      "date": "2027-01-03",
+      "kickoff_time": "14:00",
+      "home": "Chelsea",
+      "away": "Newcastle United",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2027-01-03-16-30-manchester-city-tottenham-hotspur",
+      "date_label": "Sunday 3rd January 2027",
+      "date": "2027-01-03",
+      "kickoff_time": "16:30",
+      "home": "Manchester City",
+      "away": "Tottenham Hotspur",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Main Event"
+      ]
+    },
+    {
+      "id": "2027-01-05-19-30-arsenal-brentford",
+      "date_label": "Tuesday 5th January 2027",
+      "date": "2027-01-05",
+      "kickoff_time": "19:30",
+      "home": "Arsenal",
+      "away": "Brentford",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2027-01-05-19-30-brighton-hove-albion-afc-bournemouth",
+      "date_label": "Tuesday 5th January 2027",
+      "date": "2027-01-05",
+      "kickoff_time": "19:30",
+      "home": "Brighton & Hove Albion",
+      "away": "AFC Bournemouth",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2027-01-05-19-30-everton-aston-villa",
+      "date_label": "Tuesday 5th January 2027",
+      "date": "2027-01-05",
+      "kickoff_time": "19:30",
+      "home": "Everton",
+      "away": "Aston Villa",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2027-01-05-19-30-nottingham-forest-hull-city",
+      "date_label": "Tuesday 5th January 2027",
+      "date": "2027-01-05",
+      "kickoff_time": "19:30",
+      "home": "Nottingham Forest",
+      "away": "Hull City",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2027-01-05-20-15-sunderland-liverpool",
+      "date_label": "Tuesday 5th January 2027",
+      "date": "2027-01-05",
+      "kickoff_time": "20:15",
+      "home": "Sunderland",
+      "away": "Liverpool",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2027-01-06-19-30-crystal-palace-chelsea",
+      "date_label": "Wednesday 6th January 2027",
+      "date": "2027-01-06",
+      "kickoff_time": "19:30",
+      "home": "Crystal Palace",
+      "away": "Chelsea",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2027-01-06-19-30-fulham-tottenham-hotspur",
+      "date_label": "Wednesday 6th January 2027",
+      "date": "2027-01-06",
+      "kickoff_time": "19:30",
+      "home": "Fulham",
+      "away": "Tottenham Hotspur",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2027-01-06-19-30-ipswich-town-coventry-city",
+      "date_label": "Wednesday 6th January 2027",
+      "date": "2027-01-06",
+      "kickoff_time": "19:30",
+      "home": "Ipswich Town",
+      "away": "Coventry City",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2027-01-06-20-15-leeds-united-manchester-city",
+      "date_label": "Wednesday 6th January 2027",
+      "date": "2027-01-06",
+      "kickoff_time": "20:15",
+      "home": "Leeds United",
+      "away": "Manchester City",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports TBC"
+      ]
+    },
+    {
+      "id": "2027-01-07-20-00-manchester-united-newcastle-united",
+      "date_label": "Thursday 7th January 2027",
+      "date": "2027-01-07",
+      "kickoff_time": "20:00",
+      "home": "Manchester United",
+      "away": "Newcastle United",
       "competition": "Premier League",
       "tv_channels": [
         "Sky Sports Main Event"
