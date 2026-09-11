@@ -1,7 +1,7 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-09-11T10:21:12.121094Z",
+  "generated_at_utc": "2026-09-11T15:38:21.899618Z",
   "timezone": "Europe/London",
   "fixtures": [
     {
@@ -113,6 +113,18 @@
       ]
     },
     {
+      "id": "2026-09-20-14-00-leeds-united-crystal-palace",
+      "date_label": "Sunday 20th September 2026",
+      "date": "2026-09-20",
+      "kickoff_time": "14:00",
+      "home": "Leeds United",
+      "away": "Crystal Palace",
+      "competition": "Premier League",
+      "tv_channels": [
+        "Sky Sports Tennis"
+      ]
+    },
+    {
       "id": "2026-09-20-14-00-manchester-city-sunderland",
       "date_label": "Sunday 20th September 2026",
       "date": "2026-09-20",
@@ -121,7 +133,7 @@
       "away": "Sunderland",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports Premier League"
       ]
     },
     {
