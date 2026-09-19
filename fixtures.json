@@ -1,21 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-09-18T20:13:44.059358Z",
+  "generated_at_utc": "2026-09-19T02:32:13.091244Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-09-18-20-00-brentford-chelsea",
-      "date_label": "Friday 18th September 2026",
-      "date": "2026-09-18",
-      "kickoff_time": "20:00",
-      "home": "Brentford",
-      "away": "Chelsea",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
     {
       "id": "2026-09-19-12-30-tottenham-hotspur-aston-villa",
       "date_label": "Saturday 19th September 2026",
