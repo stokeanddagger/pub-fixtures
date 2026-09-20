@@ -1,57 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-09-20T15:11:48.524101Z",
+  "generated_at_utc": "2026-09-20T20:05:01.594744Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-09-20-14-00-afc-bournemouth-liverpool",
-      "date_label": "Sunday 20th September 2026",
-      "date": "2026-09-20",
-      "kickoff_time": "14:00",
-      "home": "AFC Bournemouth",
-      "away": "Liverpool",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
-    {
-      "id": "2026-09-20-14-00-leeds-united-crystal-palace",
-      "date_label": "Sunday 20th September 2026",
-      "date": "2026-09-20",
-      "kickoff_time": "14:00",
-      "home": "Leeds United",
-      "away": "Crystal Palace",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Tennis"
-      ]
-    },
-    {
-      "id": "2026-09-20-14-00-manchester-city-sunderland",
-      "date_label": "Sunday 20th September 2026",
-      "date": "2026-09-20",
-      "kickoff_time": "14:00",
-      "home": "Manchester City",
-      "away": "Sunderland",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Premier League"
-      ]
-    },
-    {
-      "id": "2026-09-20-16-30-fulham-manchester-united",
-      "date_label": "Sunday 20th September 2026",
-      "date": "2026-09-20",
-      "kickoff_time": "16:30",
-      "home": "Fulham",
-      "away": "Manchester United",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
     {
       "id": "2026-10-10-12-30-arsenal-leeds-united",
       "date_label": "Saturday 10th October 2026",
