@@ -1,7 +1,7 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-09-25T10:55:00.307077Z",
+  "generated_at_utc": "2026-09-25T16:15:17.654519Z",
   "timezone": "Europe/London",
   "fixtures": [
     {
@@ -361,7 +361,7 @@
       "away": "Brentford",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports+"
       ]
     },
     {
@@ -373,7 +373,7 @@
       "away": "Liverpool",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports Main Event"
       ]
     },
     {
@@ -385,7 +385,7 @@
       "away": "AFC Bournemouth",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports Cricket"
       ]
     },
     {
@@ -397,7 +397,7 @@
       "away": "Chelsea",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports Premier League"
       ]
     },
     {
@@ -517,7 +517,7 @@
       "away": "Newcastle United",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports Premier League"
       ]
     },
     {
@@ -529,7 +529,7 @@
       "away": "Hull City",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports Cricket"
       ]
     },
     {
@@ -541,7 +541,7 @@
       "away": "AFC Bournemouth",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports+"
       ]
     },
     {
