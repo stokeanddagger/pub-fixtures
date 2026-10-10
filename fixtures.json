@@ -1,33 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-10-10T16:42:41.912061Z",
+  "generated_at_utc": "2026-10-10T20:58:01.713083Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-10-10-12-30-arsenal-leeds-united",
-      "date_label": "Saturday 10th October 2026",
-      "date": "2026-10-10",
-      "kickoff_time": "12:30",
-      "home": "Arsenal",
-      "away": "Leeds United",
-      "competition": "Premier League",
-      "tv_channels": [
-        "TNT Sports 1"
-      ]
-    },
-    {
-      "id": "2026-10-10-17-30-manchester-united-tottenham-hotspur",
-      "date_label": "Saturday 10th October 2026",
-      "date": "2026-10-10",
-      "kickoff_time": "17:30",
-      "home": "Manchester United",
-      "away": "Tottenham Hotspur",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
     {
       "id": "2026-10-11-14-00-crystal-palace-nottingham-forest",
       "date_label": "Sunday 11th October 2026",
