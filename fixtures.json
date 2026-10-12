@@ -1,21 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-10-12T14:03:18.090137Z",
+  "generated_at_utc": "2026-10-12T23:59:54.066654Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-10-12-20-00-coventry-city-newcastle-united",
-      "date_label": "Monday 12th October 2026",
-      "date": "2026-10-12",
-      "kickoff_time": "20:00",
-      "home": "Coventry City",
-      "away": "Newcastle United",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
     {
       "id": "2026-10-17-12-30-everton-chelsea",
       "date_label": "Saturday 17th October 2026",
