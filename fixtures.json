@@ -1,21 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-10-17T14:45:10.666942Z",
+  "generated_at_utc": "2026-10-17T19:55:18.116507Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-10-17-12-30-everton-chelsea",
-      "date_label": "Saturday 17th October 2026",
-      "date": "2026-10-17",
-      "kickoff_time": "12:30",
-      "home": "Everton",
-      "away": "Chelsea",
-      "competition": "Premier League",
-      "tv_channels": [
-        "TNT Sports 1"
-      ]
-    },
     {
       "id": "2026-10-17-17-30-newcastle-united-aston-villa",
       "date_label": "Saturday 17th October 2026",
