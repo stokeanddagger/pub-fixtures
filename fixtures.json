@@ -1,21 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-10-19T18:04:44.025294Z",
+  "generated_at_utc": "2026-10-20T02:52:15.056029Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-10-19-20-00-tottenham-hotspur-coventry-city",
-      "date_label": "Monday 19th October 2026",
-      "date": "2026-10-19",
-      "kickoff_time": "20:00",
-      "home": "Tottenham Hotspur",
-      "away": "Coventry City",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
     {
       "id": "2026-10-23-20-00-ipswich-town-nottingham-forest",
       "date_label": "Friday 23rd October 2026",
