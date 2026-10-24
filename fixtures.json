@@ -1,21 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-10-24T15:09:20.007179Z",
+  "generated_at_utc": "2026-10-24T20:01:50.530974Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-10-24-12-30-aston-villa-manchester-city",
-      "date_label": "Saturday 24th October 2026",
-      "date": "2026-10-24",
-      "kickoff_time": "12:30",
-      "home": "Aston Villa",
-      "away": "Manchester City",
-      "competition": "Premier League",
-      "tv_channels": [
-        "TNT Sports 1"
-      ]
-    },
     {
       "id": "2026-10-24-17-30-chelsea-tottenham-hotspur",
       "date_label": "Saturday 24th October 2026",
