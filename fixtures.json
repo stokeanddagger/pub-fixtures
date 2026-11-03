@@ -1,21 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-11-02T14:24:12.826039Z",
+  "generated_at_utc": "2026-11-03T00:14:57.151081Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-11-02-20-00-newcastle-united-everton",
-      "date_label": "Monday 2nd November 2026",
-      "date": "2026-11-02",
-      "kickoff_time": "20:00",
-      "home": "Newcastle United",
-      "away": "Everton",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
     {
       "id": "2026-11-06-20-00-everton-coventry-city",
       "date_label": "Friday 6th November 2026",
