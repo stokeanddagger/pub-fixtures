@@ -1,21 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-11-07T12:12:02.947322Z",
+  "generated_at_utc": "2026-11-07T21:16:09.802912Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-11-07-12-30-leeds-united-tottenham-hotspur",
-      "date_label": "Saturday 7th November 2026",
-      "date": "2026-11-07",
-      "kickoff_time": "12:30",
-      "home": "Leeds United",
-      "away": "Tottenham Hotspur",
-      "competition": "Premier League",
-      "tv_channels": [
-        "TNT Sports 1"
-      ]
-    },
     {
       "id": "2026-11-07-17-30-nottingham-forest-manchester-city",
       "date_label": "Saturday 7th November 2026",
