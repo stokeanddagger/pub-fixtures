@@ -1,7 +1,7 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-11-20T14:41:39.119131Z",
+  "generated_at_utc": "2026-11-20T23:31:24.110752Z",
   "timezone": "Europe/London",
   "fixtures": [
     {
@@ -181,7 +181,7 @@
       "away": "Crystal Palace",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports Cricket"
       ]
     },
     {
@@ -193,7 +193,7 @@
       "away": "Nottingham Forest",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports NFL"
       ]
     },
     {
@@ -205,7 +205,7 @@
       "away": "Sunderland",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports Main Event"
       ]
     },
     {
@@ -217,7 +217,7 @@
       "away": "Leeds United",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports+"
       ]
     },
     {
@@ -229,7 +229,7 @@
       "away": "Brighton & Hove Albion",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports Tennis"
       ]
     },
     {
@@ -241,7 +241,7 @@
       "away": "Everton",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports F1"
       ]
     },
     {
@@ -253,7 +253,7 @@
       "away": "Arsenal",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports Football"
       ]
     },
     {
@@ -265,7 +265,7 @@
       "away": "Manchester United",
       "competition": "Premier League",
       "tv_channels": [
-        "Sky Sports TBC"
+        "Sky Sports Premier League"
       ]
     },
     {
