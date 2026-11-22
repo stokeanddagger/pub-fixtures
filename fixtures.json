@@ -1,21 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-11-22T13:51:43.561681Z",
+  "generated_at_utc": "2026-11-22T23:02:32.917486Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-11-22-14-00-hull-city-brighton-hove-albion",
-      "date_label": "Sunday 22nd November 2026",
-      "date": "2026-11-22",
-      "kickoff_time": "14:00",
-      "home": "Hull City",
-      "away": "Brighton & Hove Albion",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
     {
       "id": "2026-11-22-16-30-liverpool-manchester-united",
       "date_label": "Sunday 22nd November 2026",
