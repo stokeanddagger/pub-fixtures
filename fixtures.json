@@ -1,21 +1,9 @@
 {
   "source": "live-footballontv-premier-league",
   "source_url": "https://www.live-footballontv.com/live-premier-league-football-on-tv.html",
-  "generated_at_utc": "2026-11-23T16:59:18.080539Z",
+  "generated_at_utc": "2026-11-24T03:40:21.359772Z",
   "timezone": "Europe/London",
   "fixtures": [
-    {
-      "id": "2026-11-23-20-00-brentford-everton",
-      "date_label": "Monday 23rd November 2026",
-      "date": "2026-11-23",
-      "kickoff_time": "20:00",
-      "home": "Brentford",
-      "away": "Everton",
-      "competition": "Premier League",
-      "tv_channels": [
-        "Sky Sports Main Event"
-      ]
-    },
     {
       "id": "2026-11-27-20-00-nottingham-forest-chelsea",
       "date_label": "Friday 27th November 2026",
